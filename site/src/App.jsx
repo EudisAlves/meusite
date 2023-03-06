@@ -1,13 +1,13 @@
-
+import './styles/components/app.sass';
 
 
 export default function App() {
 
   return (
-    <div className="App">
-      <h1>Olá</h1>
+    <div id="protifolio">
+      <h1>Eudis Alves</h1>
     </div>
-  )
+  );
 }
 
 
